@@ -7,3 +7,10 @@
 * Ideally built out of Angular.js 1.x 
 * Responsive layout suitable to iPad/iPhone, portrait+landscape
 * The goal is to assess both your ability to write well structured code as well as assemble a decent UI and front end without explicit guidance on requirements.
+
+### Getting started
+
+```sh
+$ npm install
+$ npm start
+```
